@@ -1,6 +1,6 @@
 <?php
 
-require_once './Interfaces/ClienteInterface.php';
+require_once './ClienteInterface.php';
 
 class Cliente implements ClienteInterface
 {
